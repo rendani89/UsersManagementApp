@@ -1,0 +1,6 @@
+C:\Users\renda\source\repos\UsersManagementApp\UsersManagementApp\obj\Debug\UsersManagementApp.csproj.AssemblyReference.cache
+C:\Users\renda\source\repos\UsersManagementApp\UsersManagementApp\obj\Debug\UsersManagementApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\renda\source\repos\UsersManagementApp\UsersManagementApp\obj\Debug\UsersManagementApp.Forms.AddRolesForms.resources
+C:\Users\renda\source\repos\UsersManagementApp\UsersManagementApp\obj\Debug\UsersManagementApp.Properties.Resources.resources
+C:\Users\renda\source\repos\UsersManagementApp\UsersManagementApp\obj\Debug\UsersManagementApp.csproj.GenerateResource.cache
+C:\Users\renda\source\repos\UsersManagementApp\UsersManagementApp\obj\Debug\UsersManagementApp.csproj.CoreCompileInputs.cache
